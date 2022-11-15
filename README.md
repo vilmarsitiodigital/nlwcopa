@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="NlwCopa" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1668543830/Development/NlwCopa/nlw-copa_pwsxpm.png" width="720px" />
+	<img alt="NlwCopa" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1668543830/Development/NlwCopa/nlw-copa_pwsxpm.png" width="100%" />
 </h1>
 
 <p align="center">
