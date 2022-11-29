@@ -21,8 +21,6 @@ Here are the links to them
 - [Web client](https://github.com/vilmarsitiodigital/nlwcopa-web)
 - [Mobile client](https://github.com/vilmarsitiodigital/nlwcopa-mobile)
 
-- To see the **web preview**, click here: [NlwCopa Web Preview](https://nlwcopa-web.vercel.app/)
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
